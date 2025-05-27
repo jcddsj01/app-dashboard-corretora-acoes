@@ -2,7 +2,7 @@
 
 ## Descrição
 Este projeto foi feito para melhorar minhas habilidades como desenvolvedor fullstack, usando na prática algumas tecnologias que já conheço.<br>
-Ele foi inspirado em um vídeo da Hashtag Programação no YouTube, onde eles ensina como usar o Streamlit junto com outras ferramentas para criar uma Dashboard para análise de ações.<br><br>
+Ele foi inspirado em um vídeo da Hashtag Programação no YouTube, onde eles ensina como usar o Streamlit junto com outras ferramentas para criar uma Dashboard para análise de ações.<br>
 
 Você pode assistir o 1° vídeo aqui (são 4 aulas):<br>
 [Curso de Streamlit - Aula 1 - Como Funciona Criar Apps e Sites com o Streamlit](https://www.youtube.com/watch?v=NsjA-c8596k)
@@ -118,7 +118,7 @@ MIT License. Você pode usar este projeto como referência para criar o seu pró
 
 ## Description
 This project was made to improve my skills as a fullstack developer, using in practice some technologies that I already know.<br>
-It was inspired by a video from Hashtag Programação on YouTube, where they teach how to use Streamlit together with other tools to create a Dashboard for stock analysis.<br><br>
+It was inspired by a video from Hashtag Programação on YouTube, where they teach how to use Streamlit together with other tools to create a Dashboard for stock analysis.<br>
 
 You can watch the 1st video here (there are 4 classes):<br>
 [Curso de Streamlit - Aula 1 - Como Funciona Criar Apps e Sites com o Streamlit](https://www.youtube.com/watch?v=NsjA-c8596k)
